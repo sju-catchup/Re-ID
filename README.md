@@ -1,5 +1,4 @@
 # Re-ID
 
-##### 2022-09-27
-
-##### OpenCV tracking (EJ)
+# https://www.arxiv-vanity.com/papers/1910.10093/
+# https://kaiyangzhou.github.io/deep-person-reid/
